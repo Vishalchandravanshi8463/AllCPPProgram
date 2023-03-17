@@ -1,0 +1,8 @@
+import java.util.Scanner;
+class package
+{
+  public static void main(string[] args)
+  {
+    System.out.println("ny name is vishal ");
+  }
+}
